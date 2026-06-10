@@ -11,7 +11,7 @@ Feel free to use our MiniAI Face Recognition Android SDK.
 > **Note**
 >
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
-
+## Latest SDK Download [Here](https://www.miniai.live/)
 ## FaceRecognition APK
 <a href="https://play.google.com/store/apps/details?id=com.miniai.facerecognition&hl=en-HK" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
