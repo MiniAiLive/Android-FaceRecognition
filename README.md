@@ -5,8 +5,8 @@
 </div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-We provide system integrators with fast, flexible and extremely precise facial recognition with 3D passive face liveness detection (face anti-spoofing) that can be deployed across a number of scenarios, including security, access control, public safety, fintech, smart retail and home protection.
-Feel free to use our MiniAI Face Recognition Android SDK.
+"We provide system integrators with fast, flexible and extremely precise facial recognition with 3D passive face liveness detection (face anti-spoofing) that can be deployed across a number of scenarios, including security, access control, public safety, fintech, smart retail and home protection.
+Feel free to use our MiniAI Face Recognition Android SDK."
 
 > **Note**
 >
@@ -42,7 +42,9 @@ Feel free to [Contact US](https://www.miniai.live/contact/) to get a trial Licen
 </div>
 
 ## SDK License
+
 Please replace the our license key with your license key on the MainActivity.kt.
+```
         var ret = FaceSDK.setActivation(
             "dYSREvlnlNxuMwFlDCngsmkG5rFIck95ymNvkPDeTUXt3Cj7y0sFIoYIuv3rXaeCb6Imf7lbr7r09S" + 
                 "sAPPPhL6oD1uCsdRqddQcMjzHThgjLBXjphSMnclb8SM8mzs/brmMZ+Ofu2p7nqKIy7zJASB3iRo2L5gy7e" + 
@@ -50,6 +52,7 @@ Please replace the our license key with your license key on the MainActivity.kt.
                 "YqExNq/FOhgBjzHgSmZ1tiZa+35rrU6kyzUG6O9Nl8A+Wr/lsV2QDjqn7iGgPmzimGL2pr7OLXJRUkOOWldW" + 
                 "detUeqohaI9eA=="
         )
+```
 ## About SDK
 
 ### 1. Set up
